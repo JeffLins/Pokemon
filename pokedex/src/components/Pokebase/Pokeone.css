@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    background-color: #fceec8;
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.cima {
+    display: flex;
+    align-items: right;
+    width: 10px;
+}
+
+
