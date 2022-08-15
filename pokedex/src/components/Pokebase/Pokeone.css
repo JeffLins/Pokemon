@@ -8,16 +8,25 @@ body{
     background-color: #fceec8;
 }
 
-.container {
-    width: 100px;
-    height: 100px;
+
+
+/* .cima {
     display: flex;
+    width: 30%;
+    height: 80%;
+    flex-wrap: wrap;
+    
 }
 
-.cima {
+.fotos{
     display: flex;
-    align-items: right;
-    width: 10px;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    
 }
 
-
+img {
+    width: 70%;
+} */
